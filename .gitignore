@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+*.swp
+*~
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large media files (curated versions added manually)
+*.mov
+*.mp4
+*.avi
+*.MOV
+*.MP4
+*.HEIC
+
+# Photos are curated separately - keep .gitkeep for structure
+lectures/*/photos/*
+!lectures/*/photos/.gitkeep
