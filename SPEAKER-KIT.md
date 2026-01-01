@@ -85,7 +85,7 @@ Tailored content combining any of the above topics based on your audience's need
 
 ## Booking Information
 
-**Contact:** myronkoch@gmail.com
+**Contact:** myron@myronkoch.dev
 
 **Availability:** Open for Spring 2026 semester bookings
 

@@ -88,10 +88,11 @@ Interested in having me speak at your university, conference, or organization?
 
 ## Connect
 
-- **X/Twitter:** [@myaboromedia](https://x.com/myaboromedia)
+- **X/Twitter:** [@myronkoch](https://x.com/myronkoch)
 - **LinkedIn:** [Myron Koch](https://linkedin.com/in/myronkoch)
-- **Email:** myronkoch@gmail.com
+- **GitHub:** [myronkoch](https://github.com/myronkoch)
+- **Email:** myron@myronkoch.dev
 
 ---
 
-*This repository is actively maintained. Last updated: December 2025*
+*This repository is actively maintained. Last updated: January 2026*
